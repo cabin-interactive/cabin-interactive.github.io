@@ -1,7 +1,8 @@
---- ---
-/* @import "tailwindcss/base";
+---
+---
+@import "tailwindcss/base";
 @import "tailwindcss/components";
-@import "tailwindcss/utilities"; */
+@import "tailwindcss/utilities";
 
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&display=swap');
@@ -9,9 +10,8 @@
 body {
 	font-family: 'Poppins', sans-serif;
 }
-
 .text-brand-light {
-	color: #929891;
+	color: #929891;	
 }
 
 .text-brand-dark {
