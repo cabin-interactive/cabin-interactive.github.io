@@ -4,7 +4,7 @@ title: "Cabin Interactive" # the name of your site, e.g. ACME Corp.
 
 
 plugins:
-  - jekyll-postcss
+  - jekyll-postcss-v2
 
 postcss:
   cache: false
